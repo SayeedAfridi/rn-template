@@ -1,0 +1,8 @@
+{
+  "name": "rn-template",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "git@github.com:SayeedAfridi/rn-template.git",
+  "author": "Sayeed Afridi <as.afridi563@gmail.com>",
+  "license": "MIT"
+}
