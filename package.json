@@ -1,9 +1,10 @@
 {
   "name": "@afrididev/rn-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Native Template",
   "files": [
     "template",
+    "template/.gitignore",
     "template.config.js",
     "script.js"
   ],
